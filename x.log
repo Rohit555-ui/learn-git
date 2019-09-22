@@ -1,0 +1,13 @@
+2019-08-30 17:46:07,073:DEBUG:1
+2019-08-30 17:50:27,769:DEBUG:1
+2019-08-30 17:50:27,769:DEBUG:2
+2019-08-30 17:55:38,130:DEBUG:sum of 1 and 2 is 3
+2019-08-30 17:56:17,542:DEBUG:sum of 1 and 2 is 3
+2019-08-30 17:56:17,542:DEBUG:name 'c' is not defined
+2019-08-30 17:56:48,140:DEBUG:sum of 1 and 2 is 3
+2019-08-30 17:56:48,140:DEBUG:name 'c' is not defined
+2019-08-30 17:57:30,300:DEBUG:sum of 1 and 2 and 3 is 6
+2019-08-30 17:58:04,975:INFO:sum of 1 and 2 and 3 is 6
+2019-08-30 17:58:11,141:INFO:sum of 1 and 2 and 3 is 6
+2019-08-30 17:58:22,080:INFO:sum of 1 and 2 and 3 is 6
+2019-08-30 17:58:53,955:INFO:sum of 1 and 2 and 3 is 6

@@ -1,0 +1,1306 @@
+2019-09-13 21:25:32,369:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:25:36,450:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:25:36,451:INFO:127.0.0.1 - - [13/Sep/2019 21:25:36] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:26:09,682:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:26:13,765:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:26:13,765:DEBUG:exception in get_load_dt:=name 'b' is not defined
+2019-09-13 21:26:13,766:INFO:127.0.0.1 - - [13/Sep/2019 21:26:13] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:38:36,709:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:38:36,710:DEBUG:exception in get_load_dt:=name 'b' is not defined
+2019-09-13 21:38:36,710:INFO:127.0.0.1 - - [13/Sep/2019 21:38:36] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:38:42,793:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:38:45,667:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:38:45,668:DEBUG:exception in get_load_dt:='NoneType' object has no attribute 'isnumeric'
+2019-09-13 21:38:45,668:INFO:127.0.0.1 - - [13/Sep/2019 21:38:45] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:38:48,003:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:38:48,003:DEBUG:exception in get_load_dt:='NoneType' object has no attribute 'isnumeric'
+2019-09-13 21:38:48,003:INFO:127.0.0.1 - - [13/Sep/2019 21:38:48] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:40:54,590:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:40:57,365:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:40:57,366:INFO:127.0.0.1 - - [13/Sep/2019 21:40:57] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-13 21:41:49,102:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:42:02,008:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:42:02,010:INFO:127.0.0.1 - - [13/Sep/2019 21:42:02] "GET /get_load_dt?division_code=&month=&year= HTTP/1.1" 200 -
+2019-09-13 21:42:17,852:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:42:17,853:DEBUG:Division code is 2510 and month is 7 and year is 2019 in Request
+2019-09-13 21:42:17,853:INFO:127.0.0.1 - - [13/Sep/2019 21:42:17] "GET /get_load_dt?division_code=2510&month=7&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:45:24,794:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:45:30,241:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:45:30,241:DEBUG:Division code is 2510 and month is 7 and year is 2019 in Request
+2019-09-13 21:45:30,242:INFO:127.0.0.1 - - [13/Sep/2019 21:45:30] "GET /get_load_dt?division_code=2510&month=7&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:45:35,082:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:45:35,082:DEBUG:Division code is 2510 and month is ww and year is 2019 in Request
+2019-09-13 21:45:35,083:INFO:127.0.0.1 - - [13/Sep/2019 21:45:35] "GET /get_load_dt?division_code=2510&month=ww&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:45:40,664:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:45:40,665:INFO:127.0.0.1 - - [13/Sep/2019 21:45:40] "GET /get_load_dt?division_code=2510&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:45:45,605:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:45:45,605:DEBUG:Division code is 2510 and month is ww and year is 2019 in Request
+2019-09-13 21:45:45,606:INFO:127.0.0.1 - - [13/Sep/2019 21:45:45] "GET /get_load_dt?division_code=2510&month=ww&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:48:13,334:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:48:35,184:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:48:35,184:DEBUG:Division code is 2510 and month is ww and year is 2019 in Request
+2019-09-13 21:48:35,185:INFO:127.0.0.1 - - [13/Sep/2019 21:48:35] "GET /get_load_dt?division_code=2510&month=ww&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:48:48,137:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:48:48,137:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 21:48:48,137:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 21:48:48,138:INFO:127.0.0.1 - - [13/Sep/2019 21:48:48] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:53:29,805:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 21:53:32,824:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:53:32,825:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 21:53:32,825:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 21:53:32,826:INFO:127.0.0.1 - - [13/Sep/2019 21:53:32] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 21:54:55,271:DEBUG:get_load_dt function is being called!!!
+2019-09-13 21:54:55,272:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 21:54:55,272:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 21:54:55,272:INFO:127.0.0.1 - - [13/Sep/2019 21:54:55] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:01:49,659:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:01:53,533:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:01:53,534:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:01:53,534:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:01:53,535:INFO:127.0.0.1 - - [13/Sep/2019 22:01:53] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:02:16,389:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:02:52,091:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:03:01,829:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:03:01,830:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:03:01,830:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:03:01,831:INFO:127.0.0.1 - - [13/Sep/2019 22:03:01] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:06:54,000:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:06:56,604:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:06:56,604:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:06:56,604:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:06:56,605:INFO:127.0.0.1 - - [13/Sep/2019 22:06:56] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:14:03,456:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:14:05,999:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:14:05,999:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:14:05,999:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:14:06,000:INFO:127.0.0.1 - - [13/Sep/2019 22:14:06] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:14:17,890:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:14:20,182:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:14:20,182:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:14:20,183:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:14:20,184:INFO:127.0.0.1 - - [13/Sep/2019 22:14:20] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:14:54,260:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:14:57,302:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:14:57,303:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:14:57,303:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:14:57,303:INFO:127.0.0.1 - - [13/Sep/2019 22:14:57] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:14:59,395:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:14:59,396:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:14:59,396:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:14:59,396:INFO:127.0.0.1 - - [13/Sep/2019 22:14:59] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:16:13,050:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:16:15,668:ERROR:Exception on /get_load_dt [GET]
+Traceback (most recent call last):
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/rohit/Desktop/test/python/getloaddata.py", line 12, in underload_overload_dt
+    engine = get_engine_from_pool()
+  File "/home/rohit/Desktop/test/python/Connection.py", line 7, in get_engine_from_pool
+    engine = None()
+TypeError: 'NoneType' object is not callable
+2019-09-13 22:16:15,744:INFO:127.0.0.1 - - [13/Sep/2019 22:16:15] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 500 -
+2019-09-13 22:19:47,570:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:19:52,994:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:19:52,995:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:19:52,995:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:19:52,996:INFO:127.0.0.1 - - [13/Sep/2019 22:19:52] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:19:56,139:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:19:56,140:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:19:56,140:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:19:56,140:INFO:127.0.0.1 - - [13/Sep/2019 22:19:56] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:20:12,349:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:20:14,704:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:20:14,705:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:20:14,706:INFO:127.0.0.1 - - [13/Sep/2019 22:20:14] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:23:19,527:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:23:33,891:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:23:33,892:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:23:33,892:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:23:33,892:INFO:127.0.0.1 - - [13/Sep/2019 22:23:33] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:23:35,963:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:23:35,963:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:23:35,963:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:23:35,964:INFO:127.0.0.1 - - [13/Sep/2019 22:23:35] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:24:16,291:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:24:19,191:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:24:19,192:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:24:19,192:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:24:19,193:INFO:127.0.0.1 - - [13/Sep/2019 22:24:19] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:24:21,026:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:24:21,026:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:24:21,026:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:24:21,027:INFO:127.0.0.1 - - [13/Sep/2019 22:24:21] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:25:00,220:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:25:02,826:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:25:02,827:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:25:02,827:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:25:02,828:INFO:127.0.0.1 - - [13/Sep/2019 22:25:02] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:25:04,549:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:25:04,549:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:25:04,549:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:25:04,550:INFO:127.0.0.1 - - [13/Sep/2019 22:25:04] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:25:05,447:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:25:05,447:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:25:05,447:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:25:05,447:INFO:127.0.0.1 - - [13/Sep/2019 22:25:05] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:25:06,208:DEBUG:get_load_dt function is being called!!!
+2019-09-13 22:25:06,209:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 22:25:06,209:DEBUG:exception in get_load_dt:='NoneType' object is not callable
+2019-09-13 22:25:06,209:INFO:127.0.0.1 - - [13/Sep/2019 22:25:06] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 22:31:23,490:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 22:31:30,990:ERROR:Exception on /get_load_dt [GET]
+Traceback (most recent call last):
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/rohit/Desktop/test/python/getloaddata.py", line 12, in underload_overload_dt
+    engine = None()
+TypeError: 'NoneType' object is not callable
+2019-09-13 22:31:31,037:INFO:127.0.0.1 - - [13/Sep/2019 22:31:31] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 500 -
+2019-09-13 22:31:32,879:ERROR:Exception on /get_load_dt [GET]
+Traceback (most recent call last):
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/rohit/.local/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/rohit/Desktop/test/python/getloaddata.py", line 12, in underload_overload_dt
+    engine = None()
+TypeError: 'NoneType' object is not callable
+2019-09-13 22:31:32,881:INFO:127.0.0.1 - - [13/Sep/2019 22:31:32] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 500 -
+2019-09-13 23:02:10,956:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 23:02:13,943:DEBUG:get_load_dt function is being called!!!
+2019-09-13 23:02:13,943:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 23:02:20,770:INFO:127.0.0.1 - - [13/Sep/2019 23:02:20] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-13 23:06:01,258:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-13 23:06:06,029:DEBUG:get_load_dt function is being called!!!
+2019-09-13 23:06:06,030:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-13 23:06:11,968:INFO:127.0.0.1 - - [13/Sep/2019 23:06:11] "GET /get_load_dt?division_code=2510&month=6&year=2019 HTTP/1.1" 200 -
+2019-09-15 15:26:24,687:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 15:26:37,659:INFO:127.0.0.1 - - [15/Sep/2019 15:26:37] "GET / HTTP/1.1" 404 -
+2019-09-15 15:27:01,239:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:27:01,240:INFO:127.0.0.1 - - [15/Sep/2019 15:27:01] "GET /get_load_dt HTTP/1.1" 200 -
+2019-09-15 15:27:28,062:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:27:28,062:INFO:127.0.0.1 - - [15/Sep/2019 15:27:28] "GET /get_load_dt?division_code=&month=&year=&report_type= HTTP/1.1" 200 -
+2019-09-15 15:27:42,912:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:27:42,912:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 15:27:48,728:INFO:127.0.0.1 - - [15/Sep/2019 15:27:48] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 15:46:13,095:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 15:46:17,744:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:46:17,744:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 15:46:27,975:INFO:127.0.0.1 - - [15/Sep/2019 15:46:27] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 15:46:32,999:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:46:32,999:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 15:46:33,000:INFO:127.0.0.1 - - [15/Sep/2019 15:46:33] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrdu HTTP/1.1" 200 -
+2019-09-15 15:46:46,568:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:46:46,569:DEBUG:Division code is "10" and month is 6 and year is 2019 in Request
+2019-09-15 15:46:48,989:INFO:127.0.0.1 - - [15/Sep/2019 15:46:48] "GET /get_load_dt?division_code=%2210%22&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 15:47:01,405:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:47:01,405:DEBUG:Division code is ee and month is 6 and year is 2019 in Request
+2019-09-15 15:47:03,877:INFO:127.0.0.1 - - [15/Sep/2019 15:47:03] "GET /get_load_dt?division_code=ee&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 15:47:09,699:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:47:09,700:DEBUG:Division code is ee and month is 6 and year is 2019 in Request
+2019-09-15 15:47:09,701:INFO:127.0.0.1 - - [15/Sep/2019 15:47:09] "GET /get_load_dt?division_code=ee&month=6&year=2019&report_type=mrdf HTTP/1.1" 200 -
+2019-09-15 15:56:23,761:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 15:56:32,982:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:56:32,982:DEBUG:Division code is ee and month is 6 and year is 2019 in Request
+2019-09-15 15:56:32,983:INFO:127.0.0.1 - - [15/Sep/2019 15:56:32] "GET /get_load_dt?division_code=ee&month=6&year=2019&report_type=mrdf HTTP/1.1" 200 -
+2019-09-15 15:56:44,774:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:56:44,774:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 15:57:09,389:DEBUG:get_connection(2003, "Can't connect to MySQL server on 'rdscopy3.cea15vlld93o.us-east-1.rds.amazonaws.com' (timed out)")
+2019-09-15 15:57:09,390:INFO:127.0.0.1 - - [15/Sep/2019 15:57:09] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 15:57:37,443:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 15:57:44,053:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 15:57:46,887:DEBUG:get_load_dt function is being called!!!
+2019-09-15 15:57:46,887:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 15:58:48,916:DEBUG:          id division_name division_code       dt_code meter_serial_no  \
+0     230238    JANAK PURI          2610  TI-JAB001A-1        29510442   
+1     230239    JANAK PURI          2610  TI-JAB001A-2        29508153   
+2     230240    JANAK PURI          2610  TI-JAB003A-2        29503506   
+3     230241    JANAK PURI          2610  TI-JAB003A-1        29550151   
+4     230242    JANAK PURI          2610  TI-JAB002A-1        29503803   
+5     230243    JANAK PURI          2610  TI-JAB002A-2        29503810   
+6     230244    JANAK PURI          2610  TK-JAB019A-1        29503310   
+7     230245    JANAK PURI          2610  TG-JAB005A-1        29503361   
+8     230246    JANAK PURI          2610  TI-JAB018A-1        29551013   
+9     230247    JANAK PURI          2610  TI-JAB006A-1        29503309   
+10    230248    JANAK PURI          2610  TI-JAB006A-2        29503368   
+11    230249    JANAK PURI          2610  TP-JAB022A-1        29503364   
+12    230250    JANAK PURI          2610  TI-JAB010A-1        29503305   
+13    230251    JANAK PURI          2610  TI-JAB010A-2        29503308   
+14    230252    JANAK PURI          2610  TK-JAB011A-2        29510413   
+15    230253    JANAK PURI          2610  TK-JAB011A-1        29510414   
+16    230254    JANAK PURI          2610  TG-JAB007A-2        29510660   
+17    230255    JANAK PURI          2610  TG-JAB078A-1        29504664   
+18    230256    JANAK PURI          2610  TG-JAB009A-2        29509254   
+19    230257    JANAK PURI          2610  TG-JAB009A-1        29503369   
+20    230258    JANAK PURI          2610  TI-JAB015A-2        29504464   
+21    230259    JANAK PURI          2610  TP-JAB017A-1        29510443   
+22    230260    JANAK PURI          2610  TG-JAB013A-1        29509583   
+23    230261    JANAK PURI          2610  TK-JAB012A-1        29511426   
+24    230262    JANAK PURI          2610  TK-JAB012A-2        29503505   
+25    230263    JANAK PURI          2610  TK-JAB014A-1        29503366   
+26    230264    JANAK PURI          2610  TI-JAB016A-2        29505788   
+27    230265    JANAK PURI          2610  TI-JAB016A-1        29503306   
+28    230266    JANAK PURI          2610  TI-JCD002A-2        29506023   
+29    230267    JANAK PURI          2610  TI-JCD001A-1        29503542   
+...      ...           ...           ...           ...             ...   
+1650  239197        DWARKA          2661  TI-DWK003A-1        29503329   
+1651  239198        DWARKA          2661  TI-DWK002A-2        29503910   
+1652  239199        DWARKA          2661  TI-DWK002A-1        29550252   
+1653  239200        DWARKA          2661  TI-DWK253A-1        29503686   
+1654  239201        DWARKA          2661  TI-DWK253A-2        29508817   
+1655  239202        DWARKA          2661  TI-DWK011A-2        29509001   
+1656  239203        DWARKA          2661  TI-DWK011A-1        29509223   
+1657  239204        DWARKA          2661  TI-DWK458A-1        29550813   
+1658  239205        DWARKA          2661  TI-DWK009A-1        29509400   
+1659  239206        DWARKA          2661  TP-DWK292A-1        29510582   
+1660  239207        DWARKA          2661  TI-DWK010A-1        29550782   
+1661  239208        DWARKA          2661  TI-DWK423A-1        29503684   
+1662  239209        DWARKA          2661  TI-DWK423A-2        29503687   
+1663  239210        DWARKA          2661  TI-DWK424A-2        29507583   
+1664  239211        DWARKA          2661  TI-DWK424A-1        29507642   
+1665  239212        DWARKA          2661  TP-DWK355A-1        29510537   
+1666  239213        DWARKA          2661  TI-DWK371A-1        29507643   
+1667  239214        DWARKA          2661  TI-DWK288A-1        29503685   
+1668  239215        DWARKA          2661  TI-DWK288A-2        29503690   
+1669  239216        DWARKA          2661  TI-DWK025A-1        29551444   
+1670  239217        DWARKA          2661  TI-DWK025A-2        29550812   
+1671  239218        DWARKA          2661  TI-DWK331A-2        29507582   
+1672  239219        DWARKA          2661  TI-DWK331A-1        29507584   
+1673  239220        DWARKA          2661  TI-DWK368A-1        29550826   
+1674  239221        DWARKA          2661  TI-DWK369A-1        29550781   
+1675  239222        DWARKA          2661  TI-DWK026A-1        29503904   
+1676  239223        DWARKA          2661  TI-DWK026A-2        29503907   
+1677  239224        DWARKA          2661  TP-DWK029A-1        29509259   
+1678  239225        DWARKA          2661  TP-DWK737A-1        29510948   
+1679  239226        DWARKA          2661  TG-DWK465A-1        29507681   
+
+     zone_code                sap_fl_location overloaded underloaded  \
+0      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB001          1           0   
+1      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB001          0           0   
+2      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB003          0           0   
+3      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB003          0           0   
+4      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB002          0           0   
+5      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB002          0           0   
+6      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB019          0           0   
+7      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB005          1           0   
+8      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB018          0           0   
+9      JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB006          0           1   
+10     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB006          0           1   
+11     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB022          0           0   
+12     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB010          0           0   
+13     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB010          0           0   
+14     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB011          0           0   
+15     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB011          0           0   
+16     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB007          0           0   
+17     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB078          0           0   
+18     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB009          1           0   
+19     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB009          0           0   
+20     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB015          0           1   
+21     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB017          0           1   
+22     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB013          0           1   
+23     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB012          0           0   
+24     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB012          1           0   
+25     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB014          0           0   
+26     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB016          0           0   
+27     JKPZN02  1S-DL-RP-WTC-DJKP-1004-JAB016          0           0   
+28     JKPZN04  1S-DL-RP-WTC-DJKP-1001-JCD002          0           0   
+29     JKPZN04  1S-DL-RP-WTC-DJKP-1001-JCD001          0           0   
+...        ...                            ...        ...         ...   
+1650   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK003          0           0   
+1651   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK002          0           0   
+1652   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK002          1           0   
+1653   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK253          0           0   
+1654   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK253          0           1   
+1655   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK011          0           0   
+1656   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK011          1           0   
+1657   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK458          0           1   
+1658   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK009          0           0   
+1659   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK292          0           1   
+1660   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK010          0           0   
+1661   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK423          0           1   
+1662   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK423          0           1   
+1663   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK424          0           1   
+1664   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK424          0           1   
+1665   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK355          0           1   
+1666   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK371          0           1   
+1667   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK288          0           0   
+1668   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK288          0           1   
+1669   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK025          1           0   
+1670   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK025          0           0   
+1671   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK331          0           1   
+1672   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK331          0           1   
+1673   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK368          0           1   
+1674   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK369          0           1   
+1675   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK026          0           0   
+1676   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK026          1           0   
+1677   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK029          1           0   
+1678   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK737          0           0   
+1679   DWKZN04  1S-DL-RP-WTC-DDWK-1551-DWK465          0           0   
+
+     unbalanced  monthh  yearr           timestamp overload_flag  \
+0             0       6   2019 2019-07-04 10:51:04        80_100   
+1             1       6   2019 2019-07-04 10:51:06             0   
+2             0       6   2019 2019-07-04 10:51:07             0   
+3             0       6   2019 2019-07-04 10:51:08             0   
+4             1       6   2019 2019-07-04 10:51:09             0   
+5             0       6   2019 2019-07-04 10:51:10             0   
+6             0       6   2019 2019-07-04 10:51:11             0   
+7             0       6   2019 2019-07-04 10:51:13         70_80   
+8             0       6   2019 2019-07-04 10:51:15             0   
+9             0       6   2019 2019-07-04 10:51:16             0   
+10            0       6   2019 2019-07-04 10:51:18             0   
+11            0       6   2019 2019-07-04 10:51:19             0   
+12            0       6   2019 2019-07-04 10:51:21             0   
+13            1       6   2019 2019-07-04 10:51:22             0   
+14            1       6   2019 2019-07-04 10:51:23             0   
+15            0       6   2019 2019-07-04 10:51:24             0   
+16            1       6   2019 2019-07-04 10:51:25             0   
+17            1       6   2019 2019-07-04 10:51:26             0   
+18            0       6   2019 2019-07-04 10:51:29        80_100   
+19            0       6   2019 2019-07-04 10:51:32             0   
+20            1       6   2019 2019-07-04 10:51:37             0   
+21            1       6   2019 2019-07-04 10:51:49             0   
+22            1       6   2019 2019-07-04 10:51:52             0   
+23            1       6   2019 2019-07-04 10:51:58             0   
+24            0       6   2019 2019-07-04 10:52:03         70_80   
+25            0       6   2019 2019-07-04 10:52:08             0   
+26            0       6   2019 2019-07-04 10:52:15             0   
+27            1       6   2019 2019-07-04 10:52:23             0   
+28            0       6   2019 2019-07-04 10:52:45             0   
+29            1       6   2019 2019-07-04 10:52:53             0   
+...         ...     ...    ...                 ...           ...   
+1650          1       6   2019 2019-07-22 10:35:36             0   
+1651          1       6   2019 2019-07-22 10:35:38             0   
+1652          0       6   2019 2019-07-22 10:35:44        80_100   
+1653          0       6   2019 2019-07-22 10:35:49             0   
+1654          1       6   2019 2019-07-22 10:35:55             0   
+1655          1       6   2019 2019-07-22 10:35:59             0   
+1656          0       6   2019 2019-07-22 10:36:05        80_100   
+1657          1       6   2019 2019-07-22 10:36:09             0   
+1658          0       6   2019 2019-07-22 10:36:14             0   
+1659          0       6   2019 2019-07-22 10:36:15             0   
+1660          1       6   2019 2019-07-22 10:36:18             0   
+1661          1       6   2019 2019-07-22 10:36:20             0   
+1662          0       6   2019 2019-07-22 10:36:21             0   
+1663          1       6   2019 2019-07-22 10:36:24             0   
+1664          1       6   2019 2019-07-22 10:36:25             0   
+1665          1       6   2019 2019-07-22 10:36:29             0   
+1666          1       6   2019 2019-07-22 10:36:31             0   
+1667          0       6   2019 2019-07-22 10:36:32             0   
+1668          1       6   2019 2019-07-22 10:36:33             0   
+1669          0       6   2019 2019-07-22 10:36:37        80_100   
+1670          1       6   2019 2019-07-22 10:36:38             0   
+1671          1       6   2019 2019-07-22 10:36:39             0   
+1672          1       6   2019 2019-07-22 10:36:40             0   
+1673          1       6   2019 2019-07-22 10:36:44             0   
+1674          1       6   2019 2019-07-22 10:36:46             0   
+1675          1       6   2019 2019-07-22 10:36:47             0   
+1676          0       6   2019 2019-07-22 10:36:48        80_100   
+1677          1       6   2019 2019-07-22 10:36:50   greater_100   
+1678          1       6   2019 2019-07-22 10:36:54             0   
+1679          1       6   2019 2019-07-22 10:36:57             0   
+
+     overload_gre_hundred_repeat underload_flag underload_repeat  \
+0                              0              0                0   
+1                              0              0                0   
+2                              0              0                0   
+3                              0              0                0   
+4                              0              0                0   
+5                              0              0                0   
+6                              0              0                0   
+7                              0              0                0   
+8                              0              0                0   
+9                              0        less_20                1   
+10                             0        less_20                1   
+11                             0              0                0   
+12                             0              0                0   
+13                             0              0                0   
+14                             0              0                0   
+15                             0              0                0   
+16                             0              0                0   
+17                             0              0                0   
+18                             0              0                0   
+19                             0              0                0   
+20                             0        less_20                1   
+21                             0        less_20                1   
+22                             0        less_20                1   
+23                             0              0                0   
+24                             0              0                0   
+25                             0              0                0   
+26                             0              0                0   
+27                             0              0                0   
+28                             0              0                0   
+29                             0              0                0   
+...                          ...            ...              ...   
+1650                           0              0                0   
+1651                           0              0                0   
+1652                           0              0                0   
+1653                           0              0                0   
+1654                           0        less_20                0   
+1655                           0              0                0   
+1656                           0              0                0   
+1657                           0        less_20                1   
+1658                           0              0                0   
+1659                           0        less_20                1   
+1660                           0              0                0   
+1661                           0        less_20                1   
+1662                           0        less_20                1   
+1663                           0        less_20                1   
+1664                           0        less_20                1   
+1665                           0        less_20                1   
+1666                           0        less_20                1   
+1667                           0              0                0   
+1668                           0        less_20                1   
+1669                           0              0                0   
+1670                           0              0                0   
+1671                           0        less_20                1   
+1672                           0        less_20                1   
+1673                           0        less_20                1   
+1674                           0        less_20                1   
+1675                           0              0                0   
+1676                           0              0                0   
+1677                           0              0                0   
+1678                           0              0                0   
+1679                           0              0                0   
+
+     unbalance_flag unbalance_repeat  
+0                 0                0  
+1            50_150                0  
+2                 0                0  
+3                 0                0  
+4       greater_150                0  
+5                 0                0  
+6                 0                0  
+7                 0                0  
+8                 0                0  
+9                 0                0  
+10                0                0  
+11                0                0  
+12                0                0  
+13           50_150                0  
+14           50_150                0  
+15                0                0  
+16           50_150                0  
+17           50_150                0  
+18                0                0  
+19                0                0  
+20      greater_150                0  
+21           50_150                0  
+22      greater_150                0  
+23           50_150                0  
+24                0                0  
+25                0                0  
+26                0                0  
+27           50_150                0  
+28                0                0  
+29           50_150                0  
+...             ...              ...  
+1650         50_150                1  
+1651         50_150                1  
+1652              0                0  
+1653              0                0  
+1654    greater_150                1  
+1655         50_150                1  
+1656              0                0  
+1657    greater_150                1  
+1658              0                0  
+1659              0                0  
+1660    greater_150                0  
+1661         50_150                1  
+1662              0                0  
+1663    greater_150                1  
+1664         50_150                1  
+1665    greater_150                1  
+1666    greater_150                1  
+1667              0                0  
+1668         50_150                1  
+1669              0                0  
+1670         50_150                1  
+1671         50_150                1  
+1672    greater_150                1  
+1673    greater_150                1  
+1674         50_150                0  
+1675         50_150                0  
+1676              0                0  
+1677         50_150                1  
+1678         50_150                1  
+1679         50_150                1  
+
+[1680 rows x 19 columns]
+2019-09-15 15:58:49,151:INFO:127.0.0.1 - - [15/Sep/2019 15:58:49] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:19:40,855:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:19:45,812:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:19:45,812:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:20:00,055:DEBUG:         id division_name division_code       dt_code meter_serial_no  \
+0    238050     ALAKNANDA          2510  TI-GK2055A-1        29550554   
+1    238051     ALAKNANDA          2510  TI-GK2055A-2        29500645   
+2    238052     ALAKNANDA          2510  TI-GK2059A-1        29508033   
+3    238053     ALAKNANDA          2510  TI-GK2057A-2        29500542   
+4    238054     ALAKNANDA          2510  TI-GK2057A-1        29500545   
+5    238055     ALAKNANDA          2510  TG-GK2056A-1        29500405   
+6    238056     ALAKNANDA          2510  TX-GK2113A-1        29500067   
+7    238057     ALAKNANDA          2510  TI-GK2053A-2        29600228   
+8    238058     ALAKNANDA          2510  TI-GK2058A-1        29506726   
+9    238059     ALAKNANDA          2510  TI-GK2058A-3        29500641   
+10   238060     ALAKNANDA          2510  TI-GK2058A-2        29500642   
+11   238061     ALAKNANDA          2510  TI-GK2060A-1        29505322   
+12   238062     ALAKNANDA          2510  TI-GK2060A-2        29505258   
+13   238063     ALAKNANDA          2510  TI-GK2125A-1        29500403   
+14   238064     ALAKNANDA          2510  TX-GK2068A-2        29500063   
+15   238065     ALAKNANDA          2510  TX-GK2068A-1        29500064   
+16   238066     ALAKNANDA          2510  TG-GK2068A-3        29550989   
+17   238067     ALAKNANDA          2510  TI-GK2080A-2        29500798   
+18   238068     ALAKNANDA          2510  TI-GK2080A-1        29551186   
+19   238069     ALAKNANDA          2510  TI-GK2072A-2        29500401   
+20   238070     ALAKNANDA          2510  TI-GK2072A-1        29500492   
+21   238071     ALAKNANDA          2510  TI-GK2072A-3        29500499   
+22   238072     ALAKNANDA          2510  TG-GK2069A-1        29500500   
+23   238073     ALAKNANDA          2510  TX-GK2114A-1        29500065   
+24   238074     ALAKNANDA          2510  TG-GK2050A-1        29550563   
+25   238075     ALAKNANDA          2510  TG-GK2118A-1        29500797   
+26   238076     ALAKNANDA          2510  TK-GK2124A-2        29500553   
+27   238077     ALAKNANDA          2510  TK-GK2124A-1        29508078   
+28   238078     ALAKNANDA          2510  TK-GK2079A-2        29500446   
+29   238079     ALAKNANDA          2510  TK-GK2079A-1        29505286   
+..      ...           ...           ...           ...             ...   
+207  238257     ALAKNANDA          2510  TG-OKH216A-1        29509525   
+208  238258     ALAKNANDA          2510  TG-OKH044A-1        29500649   
+209  238259     ALAKNANDA          2510  TG-OKH044A-2        29500198   
+210  238260     ALAKNANDA          2510  TG-OKH050A-1        29505121   
+211  238261     ALAKNANDA          2510  TG-GK2127A-1        29505765   
+212  238262     ALAKNANDA          2510  TG-OKH023A-1        29550539   
+213  238263     ALAKNANDA          2510  TK-OKH019A-1        29510143   
+214  238264     ALAKNANDA          2510  TI-OKH042A-1        29500382   
+215  238265     ALAKNANDA          2510  TG-OKH048A-1        29505122   
+216  238266     ALAKNANDA          2510  TG-OKH048A-2        29551018   
+217  238267     ALAKNANDA          2510  TI-OKH030A-1        29500161   
+218  238268     ALAKNANDA          2510  TI-OKH030A-2        29500409   
+219  238269     ALAKNANDA          2510  TG-OKH022A-1        29510510   
+220  238270     ALAKNANDA          2510  TG-OKH076A-2        29509894   
+221  238271     ALAKNANDA          2510  TG-OKH076A-1        29506126   
+222  238272     ALAKNANDA          2510  TI-OKH032A-1        29550157   
+223  238273     ALAKNANDA          2510  TI-OKH031A-2        29500162   
+224  238274     ALAKNANDA          2510  TI-OKH031A-1        29500268   
+225  238275     ALAKNANDA          2510  TG-OKH194A-1        29551034   
+226  238276     ALAKNANDA          2510  TG-OKH047A-1        29506543   
+227  238277     ALAKNANDA          2510  TP-OKH059A-1        29511099   
+228  238278     ALAKNANDA          2510  TI-OKH033A-2        29500407   
+229  238279     ALAKNANDA          2510  TI-OKH033A-1        29500408   
+230  238280     ALAKNANDA          2510  TI-OKH035A-1        29550161   
+231  238281     ALAKNANDA          2510  TI-OKH035A-2        29550199   
+232  238282     ALAKNANDA          2510  TI-OKH037A-1        29500394   
+233  238283     ALAKNANDA          2510  TI-OKH037A-2        29500395   
+234  238284     ALAKNANDA          2510  TP-OKH195A-1        29506129   
+235  238285     ALAKNANDA          2510  TI-OKH040A-2        29500390   
+236  238286     ALAKNANDA          2510  TI-OKH040A-1        29500387   
+
+    zone_code                sap_fl_location overloaded underloaded  \
+0     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055          0           0   
+1     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055          0           0   
+2     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2059          0           0   
+3     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057          0           0   
+4     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057          0           0   
+5     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2056          0           0   
+6     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2113          0           0   
+7     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2053          0           0   
+8     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058          0           1   
+9     ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058          0           0   
+10    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058          0           0   
+11    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060          0           0   
+12    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060          0           0   
+13    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2125          0           0   
+14    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068          0           0   
+15    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068          0           0   
+16    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068          0           0   
+17    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080          0           0   
+18    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080          0           0   
+19    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072          0           0   
+20    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072          0           0   
+21    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072          0           0   
+22    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2069          0           1   
+23    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2114          0           0   
+24    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2050          1           0   
+25    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2118          0           0   
+26    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124          0           0   
+27    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124          0           0   
+28    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079          0           0   
+29    ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079          0           0   
+..        ...                            ...        ...         ...   
+207   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH216          1           0   
+208   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044          1           0   
+209   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044          0           0   
+210   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH050          0           0   
+211   ALNZN01  1S-DL-RP-STC-DALN-2001-GK2127          1           0   
+212   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH023          0           0   
+213   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH019          1           0   
+214   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH042          0           0   
+215   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048          0           0   
+216   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048          0           0   
+217   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030          0           0   
+218   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030          0           1   
+219   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH022          0           0   
+220   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076          0           1   
+221   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076          1           0   
+222   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH032          0           0   
+223   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031          0           0   
+224   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031          0           0   
+225   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH194          0           0   
+226   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH047          0           0   
+227   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH059          0           0   
+228   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033          0           0   
+229   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033          0           0   
+230   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035          0           0   
+231   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035          0           0   
+232   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037          0           0   
+233   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037          0           0   
+234   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH195          0           0   
+235   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040          0           0   
+236   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040          0           0   
+
+    unbalanced              ...                         timestamp  \
+0            0              ...               2019-07-18 20:04:26   
+1            0              ...               2019-07-18 20:04:33   
+2            0              ...               2019-07-18 20:04:44   
+3            0              ...               2019-07-18 20:04:51   
+4            1              ...               2019-07-18 20:04:56   
+5            0              ...               2019-07-18 20:05:04   
+6            0              ...               2019-07-18 20:05:11   
+7            0              ...               2019-07-18 20:05:17   
+8            1              ...               2019-07-18 20:05:31   
+9            1              ...               2019-07-18 20:05:39   
+10           0              ...               2019-07-18 20:05:47   
+11           0              ...               2019-07-18 20:05:56   
+12           0              ...               2019-07-18 20:06:04   
+13           0              ...               2019-07-18 20:06:12   
+14           0              ...               2019-07-18 20:06:20   
+15           1              ...               2019-07-18 20:06:29   
+16           0              ...               2019-07-18 20:06:38   
+17           0              ...               2019-07-18 20:06:45   
+18           0              ...               2019-07-18 20:06:53   
+19           0              ...               2019-07-18 20:07:01   
+20           1              ...               2019-07-18 20:07:09   
+21           1              ...               2019-07-18 20:07:17   
+22           0              ...               2019-07-18 20:07:24   
+23           1              ...               2019-07-18 20:07:32   
+24           0              ...               2019-07-18 20:07:40   
+25           0              ...               2019-07-18 20:07:49   
+26           0              ...               2019-07-18 20:07:56   
+27           1              ...               2019-07-18 20:08:05   
+28           0              ...               2019-07-18 20:08:14   
+29           0              ...               2019-07-18 20:08:22   
+..         ...              ...                               ...   
+207          0              ...               2019-07-18 20:31:41   
+208          1              ...               2019-07-18 20:31:48   
+209          0              ...               2019-07-18 20:31:57   
+210          1              ...               2019-07-18 20:32:05   
+211          0              ...               2019-07-18 20:32:14   
+212          0              ...               2019-07-18 20:32:25   
+213          1              ...               2019-07-18 20:32:34   
+214          0              ...               2019-07-18 20:32:43   
+215          1              ...               2019-07-18 20:32:58   
+216          1              ...               2019-07-18 20:33:08   
+217          0              ...               2019-07-18 20:33:17   
+218          1              ...               2019-07-18 20:33:23   
+219          0              ...               2019-07-18 20:33:37   
+220          1              ...               2019-07-18 20:33:43   
+221          0              ...               2019-07-18 20:33:50   
+222          0              ...               2019-07-18 20:33:56   
+223          0              ...               2019-07-18 20:34:03   
+224          0              ...               2019-07-18 20:34:09   
+225          0              ...               2019-07-18 20:34:16   
+226          1              ...               2019-07-18 20:34:22   
+227          0              ...               2019-07-18 20:34:29   
+228          1              ...               2019-07-18 20:34:36   
+229          0              ...               2019-07-18 20:34:42   
+230          0              ...               2019-07-18 20:34:49   
+231          1              ...               2019-07-18 20:34:55   
+232          1              ...               2019-07-18 20:35:03   
+233          0              ...               2019-07-18 20:35:10   
+234          0              ...               2019-07-18 20:35:21   
+235          0              ...               2019-07-18 20:35:29   
+236          0              ...               2019-07-18 20:35:36   
+
+     overload_flag overload_gre_hundred_repeat underload_flag  \
+0                0                           0              0   
+1                0                           0              0   
+2                0                           0              0   
+3                0                           0              0   
+4                0                           0              0   
+5                0                           0              0   
+6                0                           0              0   
+7                0                           0              0   
+8                0                           0        less_20   
+9                0                           0              0   
+10               0                           0              0   
+11               0                           0              0   
+12               0                           0              0   
+13               0                           0              0   
+14               0                           0              0   
+15               0                           0              0   
+16               0                           0              0   
+17               0                           0              0   
+18               0                           0              0   
+19               0                           0              0   
+20               0                           0              0   
+21               0                           0              0   
+22               0                           0        less_20   
+23               0                           0              0   
+24          80_100                           0              0   
+25               0                           0              0   
+26               0                           0              0   
+27               0                           0              0   
+28               0                           0              0   
+29               0                           0              0   
+..             ...                         ...            ...   
+207          70_80                           0              0   
+208          70_80                           0              0   
+209              0                           0              0   
+210              0                           0              0   
+211          70_80                           0              0   
+212              0                           0              0   
+213         80_100                           0              0   
+214              0                           0              0   
+215              0                           0              0   
+216              0                           0              0   
+217              0                           0              0   
+218              0                           0        less_20   
+219              0                           0              0   
+220              0                           0        less_20   
+221          70_80                           0              0   
+222              0                           0              0   
+223              0                           0              0   
+224              0                           0              0   
+225              0                           0              0   
+226              0                           0              0   
+227              0                           0              0   
+228              0                           0              0   
+229              0                           0              0   
+230              0                           0              0   
+231              0                           0              0   
+232              0                           0              0   
+233              0                           0              0   
+234              0                           0              0   
+235              0                           0              0   
+236              0                           0              0   
+
+    underload_repeat unbalance_flag unbalance_repeat   latitude  longitude  \
+0                  0              0                0  28.539507  77.234769   
+1                  0              0                0  28.539507  77.234769   
+2                  0              0                0  28.534997  77.236577   
+3                  0              0                0  28.537367  77.237456   
+4                  0    greater_150                1  28.537367  77.237456   
+5                  0              0                0  28.539745  77.237889   
+6                  0              0                0  28.536162  77.238136   
+7                  0              0                0  28.540283  77.238645   
+8                  0    greater_150                1  28.537990  77.239236   
+9                  0         50_150                1  28.537990  77.239236   
+10                 0              0                0  28.537990  77.239236   
+11                 0              0                0  28.541643  77.240386   
+12                 0              0                0  28.541643  77.240386   
+13                 0              0                0  28.535617  77.240731   
+14                 0              0                0  28.540058  77.241174   
+15                 0         50_150                1  28.540058  77.241174   
+16                 0              0                0  28.540058  77.241174   
+17                 0              0                0  28.536479  77.241166   
+18                 0              0                0  28.536479  77.241166   
+19                 0              0                0  28.532789  77.241369   
+20                 0         50_150                1  28.532789  77.241369   
+21                 0         50_150                1  28.532789  77.241369   
+22                 0              0                0  28.532636  77.241672   
+23                 0         50_150                0  28.536011  77.241719   
+24                 0              0                0  28.541518  77.241854   
+25                 0              0                0  28.533569  77.242480   
+26                 0              0                0  28.530416  77.242658   
+27                 0         50_150                1  28.530416  77.242658   
+28                 0              0                0  28.537438  77.242836   
+29                 0              0                0  28.537438  77.242836   
+..               ...            ...              ...        ...        ...   
+207                0              0                0  28.532088  77.258498   
+208                0         50_150                0  28.523722  77.259232   
+209                0              0                0  28.523722  77.259232   
+210                0         50_150                1  28.529407  77.259534   
+211                0              0                0  28.528851  77.259563   
+212                0              0                0  28.527325  77.259580   
+213                0         50_150                1  28.521732  77.259694   
+214                0              0                0  28.526877  77.260052   
+215                0         50_150                0  28.530093  77.260262   
+216                0         50_150                1  28.530093  77.260262   
+217                0              0                0  28.528975  77.260385   
+218                1         50_150                1  28.528975  77.260385   
+219                0              0                0  28.524361  77.261408   
+220                0         50_150                0  28.523442  77.261872   
+221                0              0                0  28.523442  77.261872   
+222                0              0                0  28.528146  77.261954   
+223                0              0                0  28.526761  77.261992   
+224                0              0                0  28.526761  77.261992   
+225                0              0                0  28.523274  77.262002   
+226                0         50_150                0  28.530481  77.262029   
+227                0              0                0  28.531237  77.262332   
+228                0         50_150                1  28.529853  77.263074   
+229                0              0                0  28.529853  77.263074   
+230                0              0                0  28.527939  77.265229   
+231                0         50_150                0  28.527939  77.265229   
+232                0         50_150                1  28.526300  77.265274   
+233                0              0                0  28.526300  77.265274   
+234                0              0                0  28.525559  77.266830   
+235                0              0                0  28.529064  77.266971   
+236                0              0                0  28.529064  77.266971   
+
+                   sap_fl_location  
+0    1S-DL-RP-STC-DALN-2001-GK2055  
+1    1S-DL-RP-STC-DALN-2001-GK2055  
+2    1S-DL-RP-STC-DALN-2001-GK2059  
+3    1S-DL-RP-STC-DALN-2001-GK2057  
+4    1S-DL-RP-STC-DALN-2001-GK2057  
+5    1S-DL-RP-STC-DALN-2001-GK2056  
+6    1S-DL-RP-STC-DALN-2001-GK2113  
+7    1S-DL-RP-STC-DALN-2001-GK2053  
+8    1S-DL-RP-STC-DALN-2001-GK2058  
+9    1S-DL-RP-STC-DALN-2001-GK2058  
+10   1S-DL-RP-STC-DALN-2001-GK2058  
+11   1S-DL-RP-STC-DALN-2001-GK2060  
+12   1S-DL-RP-STC-DALN-2001-GK2060  
+13   1S-DL-RP-STC-DALN-2001-GK2125  
+14   1S-DL-RP-STC-DALN-2001-GK2068  
+15   1S-DL-RP-STC-DALN-2001-GK2068  
+16   1S-DL-RP-STC-DALN-2001-GK2068  
+17   1S-DL-RP-STC-DALN-2001-GK2080  
+18   1S-DL-RP-STC-DALN-2001-GK2080  
+19   1S-DL-RP-STC-DALN-2001-GK2072  
+20   1S-DL-RP-STC-DALN-2001-GK2072  
+21   1S-DL-RP-STC-DALN-2001-GK2072  
+22   1S-DL-RP-STC-DALN-2001-GK2069  
+23   1S-DL-RP-STC-DALN-2001-GK2114  
+24   1S-DL-RP-STC-DALN-2001-GK2050  
+25   1S-DL-RP-STC-DALN-2001-GK2118  
+26   1S-DL-RP-STC-DALN-2001-GK2124  
+27   1S-DL-RP-STC-DALN-2001-GK2124  
+28   1S-DL-RP-STC-DALN-2001-GK2079  
+29   1S-DL-RP-STC-DALN-2001-GK2079  
+..                             ...  
+207  1S-DL-RP-STC-DALN-2002-OKH216  
+208  1S-DL-RP-STC-DALN-2002-OKH044  
+209  1S-DL-RP-STC-DALN-2002-OKH044  
+210  1S-DL-RP-STC-DALN-2002-OKH050  
+211  1S-DL-RP-STC-DALN-2001-GK2127  
+212  1S-DL-RP-STC-DALN-2002-OKH023  
+213  1S-DL-RP-STC-DALN-2002-OKH019  
+214  1S-DL-RP-STC-DALN-2002-OKH042  
+215  1S-DL-RP-STC-DALN-2002-OKH048  
+216  1S-DL-RP-STC-DALN-2002-OKH048  
+217  1S-DL-RP-STC-DALN-2002-OKH030  
+218  1S-DL-RP-STC-DALN-2002-OKH030  
+219  1S-DL-RP-STC-DALN-2002-OKH022  
+220  1S-DL-RP-STC-DALN-2002-OKH076  
+221  1S-DL-RP-STC-DALN-2002-OKH076  
+222  1S-DL-RP-STC-DALN-2002-OKH032  
+223  1S-DL-RP-STC-DALN-2002-OKH031  
+224  1S-DL-RP-STC-DALN-2002-OKH031  
+225  1S-DL-RP-STC-DALN-2002-OKH194  
+226  1S-DL-RP-STC-DALN-2002-OKH047  
+227  1S-DL-RP-STC-DALN-2002-OKH059  
+228  1S-DL-RP-STC-DALN-2002-OKH033  
+229  1S-DL-RP-STC-DALN-2002-OKH033  
+230  1S-DL-RP-STC-DALN-2002-OKH035  
+231  1S-DL-RP-STC-DALN-2002-OKH035  
+232  1S-DL-RP-STC-DALN-2002-OKH037  
+233  1S-DL-RP-STC-DALN-2002-OKH037  
+234  1S-DL-RP-STC-DALN-2002-OKH195  
+235  1S-DL-RP-STC-DALN-2002-OKH040  
+236  1S-DL-RP-STC-DALN-2002-OKH040  
+
+[237 rows x 22 columns]
+2019-09-15 16:20:00,155:DEBUG:exception in get_load_dt:=''
+2019-09-15 16:20:00,156:INFO:127.0.0.1 - - [15/Sep/2019 16:20:00] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:22:10,669:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:22:13,500:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:22:13,501:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:22:28,423:DEBUG:exception in get_load_dt:=Execution failed on sql 'select division_code,zone_code,sap_fl_location,dt_code,overloaded,underloaded,latitude,longitude from (select * from dt_health_report_anomoly where monthh = 6 and yearr = 2019 and division_code='2510') as T1 left join (select latitude, longitude, sap_fl_location from substation) as T2 on T1.sap_fl_location=T2.sap_fl_location': (1052, "Column 'sap_fl_location' in field list is ambiguous")
+2019-09-15 16:22:28,425:INFO:127.0.0.1 - - [15/Sep/2019 16:22:28] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:23:26,896:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:23:32,855:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:23:35,728:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:23:35,728:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:23:48,172:DEBUG:exception in get_load_dt:=Execution failed on sql 'select division_code,zone_code,sap_fl_location,dt_code,overloaded,underloaded,latitude,longitude from (select * from dt_health_report_anomoly where monthh = 6 and yearr = 2019 and division_code='2510') as T1 left join (select latitude, longitude, sap_fl_location from substation) as T2 on T1.sap_fl_location=T2.sap_fl_location': (1052, "Column 'sap_fl_location' in field list is ambiguous")
+2019-09-15 16:23:48,173:INFO:127.0.0.1 - - [15/Sep/2019 16:23:48] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:25:01,134:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:25:04,141:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:25:04,141:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:25:20,471:DEBUG:    division_code zone_code                sap_fl_location       dt_code  \
+0            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055  TI-GK2055A-1   
+1            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055  TI-GK2055A-2   
+2            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2059  TI-GK2059A-1   
+3            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057  TI-GK2057A-2   
+4            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057  TI-GK2057A-1   
+5            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2056  TG-GK2056A-1   
+6            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2113  TX-GK2113A-1   
+7            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2053  TI-GK2053A-2   
+8            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-1   
+9            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-3   
+10           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-2   
+11           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060  TI-GK2060A-1   
+12           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060  TI-GK2060A-2   
+13           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2125  TI-GK2125A-1   
+14           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TX-GK2068A-2   
+15           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TX-GK2068A-1   
+16           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TG-GK2068A-3   
+17           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080  TI-GK2080A-2   
+18           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080  TI-GK2080A-1   
+19           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-2   
+20           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-1   
+21           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-3   
+22           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2069  TG-GK2069A-1   
+23           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2114  TX-GK2114A-1   
+24           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2050  TG-GK2050A-1   
+25           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2118  TG-GK2118A-1   
+26           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124  TK-GK2124A-2   
+27           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124  TK-GK2124A-1   
+28           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079  TK-GK2079A-2   
+29           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079  TK-GK2079A-1   
+..            ...       ...                            ...           ...   
+207          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH216  TG-OKH216A-1   
+208          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044  TG-OKH044A-1   
+209          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044  TG-OKH044A-2   
+210          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH050  TG-OKH050A-1   
+211          2510   ALNZN01  1S-DL-RP-STC-DALN-2001-GK2127  TG-GK2127A-1   
+212          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH023  TG-OKH023A-1   
+213          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH019  TK-OKH019A-1   
+214          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH042  TI-OKH042A-1   
+215          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048  TG-OKH048A-1   
+216          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048  TG-OKH048A-2   
+217          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030  TI-OKH030A-1   
+218          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030  TI-OKH030A-2   
+219          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH022  TG-OKH022A-1   
+220          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076  TG-OKH076A-2   
+221          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076  TG-OKH076A-1   
+222          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH032  TI-OKH032A-1   
+223          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031  TI-OKH031A-2   
+224          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031  TI-OKH031A-1   
+225          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH194  TG-OKH194A-1   
+226          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH047  TG-OKH047A-1   
+227          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH059  TP-OKH059A-1   
+228          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033  TI-OKH033A-2   
+229          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033  TI-OKH033A-1   
+230          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035  TI-OKH035A-1   
+231          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035  TI-OKH035A-2   
+232          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037  TI-OKH037A-1   
+233          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037  TI-OKH037A-2   
+234          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH195  TP-OKH195A-1   
+235          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040  TI-OKH040A-2   
+236          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040  TI-OKH040A-1   
+
+    overloaded underloaded   latitude  longitude  
+0            0           0  28.539507  77.234769  
+1            0           0  28.539507  77.234769  
+2            0           0  28.534997  77.236577  
+3            0           0  28.537367  77.237456  
+4            0           0  28.537367  77.237456  
+5            0           0  28.539745  77.237889  
+6            0           0  28.536162  77.238136  
+7            0           0  28.540283  77.238645  
+8            0           1  28.537990  77.239236  
+9            0           0  28.537990  77.239236  
+10           0           0  28.537990  77.239236  
+11           0           0  28.541643  77.240386  
+12           0           0  28.541643  77.240386  
+13           0           0  28.535617  77.240731  
+14           0           0  28.540058  77.241174  
+15           0           0  28.540058  77.241174  
+16           0           0  28.540058  77.241174  
+17           0           0  28.536479  77.241166  
+18           0           0  28.536479  77.241166  
+19           0           0  28.532789  77.241369  
+20           0           0  28.532789  77.241369  
+21           0           0  28.532789  77.241369  
+22           0           1  28.532636  77.241672  
+23           0           0  28.536011  77.241719  
+24           1           0  28.541518  77.241854  
+25           0           0  28.533569  77.242480  
+26           0           0  28.530416  77.242658  
+27           0           0  28.530416  77.242658  
+28           0           0  28.537438  77.242836  
+29           0           0  28.537438  77.242836  
+..         ...         ...        ...        ...  
+207          1           0  28.532088  77.258498  
+208          1           0  28.523722  77.259232  
+209          0           0  28.523722  77.259232  
+210          0           0  28.529407  77.259534  
+211          1           0  28.528851  77.259563  
+212          0           0  28.527325  77.259580  
+213          1           0  28.521732  77.259694  
+214          0           0  28.526877  77.260052  
+215          0           0  28.530093  77.260262  
+216          0           0  28.530093  77.260262  
+217          0           0  28.528975  77.260385  
+218          0           1  28.528975  77.260385  
+219          0           0  28.524361  77.261408  
+220          0           1  28.523442  77.261872  
+221          1           0  28.523442  77.261872  
+222          0           0  28.528146  77.261954  
+223          0           0  28.526761  77.261992  
+224          0           0  28.526761  77.261992  
+225          0           0  28.523274  77.262002  
+226          0           0  28.530481  77.262029  
+227          0           0  28.531237  77.262332  
+228          0           0  28.529853  77.263074  
+229          0           0  28.529853  77.263074  
+230          0           0  28.527939  77.265229  
+231          0           0  28.527939  77.265229  
+232          0           0  28.526300  77.265274  
+233          0           0  28.526300  77.265274  
+234          0           0  28.525559  77.266830  
+235          0           0  28.529064  77.266971  
+236          0           0  28.529064  77.266971  
+
+[237 rows x 8 columns]
+2019-09-15 16:25:20,490:DEBUG:exception in get_load_dt:=''
+2019-09-15 16:25:20,491:INFO:127.0.0.1 - - [15/Sep/2019 16:25:20] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:25:59,278:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:26:08,072:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:26:08,073:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:26:37,644:DEBUG:    division_code zone_code                sap_fl_location       dt_code  \
+0            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055  TI-GK2055A-1   
+1            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2055  TI-GK2055A-2   
+2            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2059  TI-GK2059A-1   
+3            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057  TI-GK2057A-2   
+4            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2057  TI-GK2057A-1   
+5            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2056  TG-GK2056A-1   
+6            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2113  TX-GK2113A-1   
+7            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2053  TI-GK2053A-2   
+8            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-1   
+9            2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-3   
+10           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2058  TI-GK2058A-2   
+11           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060  TI-GK2060A-1   
+12           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2060  TI-GK2060A-2   
+13           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2125  TI-GK2125A-1   
+14           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TX-GK2068A-2   
+15           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TX-GK2068A-1   
+16           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2068  TG-GK2068A-3   
+17           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080  TI-GK2080A-2   
+18           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2080  TI-GK2080A-1   
+19           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-2   
+20           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-1   
+21           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2072  TI-GK2072A-3   
+22           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2069  TG-GK2069A-1   
+23           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2114  TX-GK2114A-1   
+24           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2050  TG-GK2050A-1   
+25           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2118  TG-GK2118A-1   
+26           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124  TK-GK2124A-2   
+27           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2124  TK-GK2124A-1   
+28           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079  TK-GK2079A-2   
+29           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2079  TK-GK2079A-1   
+..            ...       ...                            ...           ...   
+207          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH216  TG-OKH216A-1   
+208          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044  TG-OKH044A-1   
+209          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044  TG-OKH044A-2   
+210          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH050  TG-OKH050A-1   
+211          2510   ALNZN01  1S-DL-RP-STC-DALN-2001-GK2127  TG-GK2127A-1   
+212          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH023  TG-OKH023A-1   
+213          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH019  TK-OKH019A-1   
+214          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH042  TI-OKH042A-1   
+215          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048  TG-OKH048A-1   
+216          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH048  TG-OKH048A-2   
+217          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030  TI-OKH030A-1   
+218          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH030  TI-OKH030A-2   
+219          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH022  TG-OKH022A-1   
+220          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076  TG-OKH076A-2   
+221          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076  TG-OKH076A-1   
+222          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH032  TI-OKH032A-1   
+223          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031  TI-OKH031A-2   
+224          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH031  TI-OKH031A-1   
+225          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH194  TG-OKH194A-1   
+226          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH047  TG-OKH047A-1   
+227          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH059  TP-OKH059A-1   
+228          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033  TI-OKH033A-2   
+229          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH033  TI-OKH033A-1   
+230          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035  TI-OKH035A-1   
+231          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH035  TI-OKH035A-2   
+232          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037  TI-OKH037A-1   
+233          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH037  TI-OKH037A-2   
+234          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH195  TP-OKH195A-1   
+235          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040  TI-OKH040A-2   
+236          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH040  TI-OKH040A-1   
+
+    overloaded underloaded   latitude  longitude  
+0            0           0  28.539507  77.234769  
+1            0           0  28.539507  77.234769  
+2            0           0  28.534997  77.236577  
+3            0           0  28.537367  77.237456  
+4            0           0  28.537367  77.237456  
+5            0           0  28.539745  77.237889  
+6            0           0  28.536162  77.238136  
+7            0           0  28.540283  77.238645  
+8            0           1  28.537990  77.239236  
+9            0           0  28.537990  77.239236  
+10           0           0  28.537990  77.239236  
+11           0           0  28.541643  77.240386  
+12           0           0  28.541643  77.240386  
+13           0           0  28.535617  77.240731  
+14           0           0  28.540058  77.241174  
+15           0           0  28.540058  77.241174  
+16           0           0  28.540058  77.241174  
+17           0           0  28.536479  77.241166  
+18           0           0  28.536479  77.241166  
+19           0           0  28.532789  77.241369  
+20           0           0  28.532789  77.241369  
+21           0           0  28.532789  77.241369  
+22           0           1  28.532636  77.241672  
+23           0           0  28.536011  77.241719  
+24           1           0  28.541518  77.241854  
+25           0           0  28.533569  77.242480  
+26           0           0  28.530416  77.242658  
+27           0           0  28.530416  77.242658  
+28           0           0  28.537438  77.242836  
+29           0           0  28.537438  77.242836  
+..         ...         ...        ...        ...  
+207          1           0  28.532088  77.258498  
+208          1           0  28.523722  77.259232  
+209          0           0  28.523722  77.259232  
+210          0           0  28.529407  77.259534  
+211          1           0  28.528851  77.259563  
+212          0           0  28.527325  77.259580  
+213          1           0  28.521732  77.259694  
+214          0           0  28.526877  77.260052  
+215          0           0  28.530093  77.260262  
+216          0           0  28.530093  77.260262  
+217          0           0  28.528975  77.260385  
+218          0           1  28.528975  77.260385  
+219          0           0  28.524361  77.261408  
+220          0           1  28.523442  77.261872  
+221          1           0  28.523442  77.261872  
+222          0           0  28.528146  77.261954  
+223          0           0  28.526761  77.261992  
+224          0           0  28.526761  77.261992  
+225          0           0  28.523274  77.262002  
+226          0           0  28.530481  77.262029  
+227          0           0  28.531237  77.262332  
+228          0           0  28.529853  77.263074  
+229          0           0  28.529853  77.263074  
+230          0           0  28.527939  77.265229  
+231          0           0  28.527939  77.265229  
+232          0           0  28.526300  77.265274  
+233          0           0  28.526300  77.265274  
+234          0           0  28.525559  77.266830  
+235          0           0  28.529064  77.266971  
+236          0           0  28.529064  77.266971  
+
+[237 rows x 8 columns]
+2019-09-15 16:26:37,663:DEBUG:exception in get_load_dt:=''
+2019-09-15 16:26:37,664:INFO:127.0.0.1 - - [15/Sep/2019 16:26:37] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:28:50,255:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:28:52,712:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:28:52,712:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:29:17,689:DEBUG:    division_code zone_code                sap_fl_location       dt_code  \
+24           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2050  TG-GK2050A-1   
+39           2510   ALNZN03  1S-DL-RP-STC-DALN-2001-GK2135  TG-GK2135A-1   
+88           2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2027  TG-GK2027A-2   
+89           2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2111  TX-GK2111A-1   
+110          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2023  TX-GK2023A-2   
+116          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2119  TX-GK2119A-1   
+124          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2089  TG-GK2089A-1   
+128          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2006  TK-GK2006A-3   
+131          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2003  TG-GK2003A-1   
+134          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2077  TG-GK2077A-3   
+142          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2013  TP-GK2013A-3   
+145          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2011  TP-GK2011A-2   
+152          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2150  TG-GK2150A-1   
+153          2510   ALNZN02  1S-DL-RP-STC-DALN-2001-GK2150  TG-GK2150A-2   
+181          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH021  TG-OKH021A-1   
+182          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH021  TG-OKH021A-2   
+186          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH052  TI-OKH052A-2   
+190          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH057  TG-OKH057A-1   
+191          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH027  TI-OKH027A-2   
+193          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH018  TG-OKH018A-1   
+197          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH015  TK-OKH015A-2   
+199          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH014  TG-OKH014A-1   
+207          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH216  TG-OKH216A-1   
+208          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH044  TG-OKH044A-1   
+211          2510   ALNZN01  1S-DL-RP-STC-DALN-2001-GK2127  TG-GK2127A-1   
+213          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH019  TK-OKH019A-1   
+221          2510   ALNZN01  1S-DL-RP-STC-DALN-2002-OKH076  TG-OKH076A-1   
+
+    unbalanced overloaded underloaded   latitude  longitude  
+24           0          1           0  28.541518  77.241854  
+39           0          1           0  28.537717  77.245253  
+88           0          1           0  28.545336  77.253263  
+89           0          1           0  28.542483  77.253910  
+110          0          1           0  28.536095  77.258608  
+116          0          1           0  28.535646  77.259609  
+124          0          1           0  28.536374  77.260977  
+128          0          1           0  28.537396  77.261365  
+131          0          1           0  28.539587  77.263128  
+134          0          1           0  28.531992  77.263611  
+142          0          1           0  28.534131  77.267305  
+145          0          1           0  28.536044  77.267527  
+152          0          1           0  28.532914  77.257708  
+153          1          1           0  28.532914  77.257708  
+181          1          1           0  28.519753  77.254720  
+182          0          1           0  28.519753  77.254720  
+186          0          1           0  28.530850  77.254945  
+190          0          1           0  28.520982  77.255550  
+191          0          1           0  28.526485  77.255637  
+193          0          1           0  28.527207  77.255701  
+197          0          1           0  28.523223  77.256290  
+199          0          1           0  28.525304  77.256332  
+207          0          1           0  28.532088  77.258498  
+208          1          1           0  28.523722  77.259232  
+211          0          1           0  28.528851  77.259563  
+213          1          1           0  28.521732  77.259694  
+221          0          1           0  28.523442  77.261872  
+2019-09-15 16:29:17,701:INFO:127.0.0.1 - - [15/Sep/2019 16:29:17] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:31:35,792:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:31:46,185:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:31:46,186:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:31:58,316:DEBUG:exception in get_load_dt:='DataFrame' object has no attribute 'len'
+2019-09-15 16:31:58,318:INFO:127.0.0.1 - - [15/Sep/2019 16:31:58] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:32:41,095:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:32:46,657:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:32:46,658:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:33:03,652:DEBUG:exception in get_load_dt:='DataFrame' object has no attribute 'len'
+2019-09-15 16:33:03,654:INFO:127.0.0.1 - - [15/Sep/2019 16:33:03] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:33:39,444:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:33:44,346:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:33:44,346:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:34:02,025:DEBUG:exception in get_load_dt:='DataFrame' object has no attribute 'len'
+2019-09-15 16:34:02,026:INFO:127.0.0.1 - - [15/Sep/2019 16:34:02] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:34:32,198:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:34:38,432:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:34:41,730:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:34:41,731:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:35:16,481:DEBUG:{'count': 27}
+2019-09-15 16:35:16,483:INFO:127.0.0.1 - - [15/Sep/2019 16:35:16] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:56:56,581:INFO: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-09-15 16:57:14,487:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:57:14,488:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:57:20,955:INFO:127.0.0.1 - - [15/Sep/2019 16:57:20] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
+2019-09-15 16:57:46,520:DEBUG:get_load_dt function is being called!!!
+2019-09-15 16:57:46,521:DEBUG:Division code is 2510 and month is 6 and year is 2019 in Request
+2019-09-15 16:57:53,985:INFO:127.0.0.1 - - [15/Sep/2019 16:57:53] "GET /get_load_dt?division_code=2510&month=6&year=2019&report_type=mrd HTTP/1.1" 200 -
