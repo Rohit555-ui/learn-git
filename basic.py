@@ -11,6 +11,9 @@ app = Flask(__name__)
 def get_data():
     return "gettting data"
 
+def basic():
+    return "basic function"
+
 @app.route('/insertdata', methods = ['POST'])
 def setdata():
     logging.debug("set data function is getting called!!!")
