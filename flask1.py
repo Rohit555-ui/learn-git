@@ -22,7 +22,11 @@ def get_connection_from_pool():
         logging.error("get_connection" + str(e))
     return connection
 
+
 # curr_diff = myConnection.cursor()
 # curr_diff.execute(insert_query)
 # 	myConnection.commit()
 # 	curr_diff.close()
+
+def test():
+    print("testing")
