@@ -30,3 +30,19 @@ def get_connection_from_pool():
 
 def test():
     print("testing")
+
+
+def test1():
+    print("testing1")
+
+
+def test2():
+    print("testing2")
+
+
+def test3():
+    print("testing3")
+
+
+def test4():
+    print("44")
