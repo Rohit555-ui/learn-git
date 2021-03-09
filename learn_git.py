@@ -2,5 +2,6 @@ print("master changes")
 
 
 def fun1():
-    print("one")
-    print("two")
+    print("first")
+    print("second")
+    print("third")
